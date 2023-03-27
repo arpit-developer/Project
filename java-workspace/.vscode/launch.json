@@ -1,0 +1,476 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Range1To100EO",
+            "request": "launch",
+            "mainClass": "Range1To100EO",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "RandomNum",
+            "request": "launch",
+            "mainClass": "RandomNum",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "FlipaCoin",
+            "request": "launch",
+            "mainClass": "FlipaCoin",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayOrder",
+            "request": "launch",
+            "mainClass": "ArrayOrder",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Avg",
+            "request": "launch",
+            "mainClass": "Avg",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BinaryToDecimal",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "BreaknContinue",
+            "request": "launch",
+            "mainClass": "BreaknContinue",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "CheckPowerofTwo",
+            "request": "launch",
+            "mainClass": "CheckPowerofTwo",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Checkyear",
+            "request": "launch",
+            "mainClass": "Checkyear",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "CompareTwoNum",
+            "request": "launch",
+            "mainClass": "CompareTwoNum",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "CreateUsernamefromEmail",
+            "request": "launch",
+            "mainClass": "CreateUsernamefromEmail",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "EvenNum",
+            "request": "launch",
+            "mainClass": "EvenNum",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "ExpPower",
+            "request": "launch",
+            "mainClass": "ExpPower",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "FactorialUsingRecursion",
+            "request": "launch",
+            "mainClass": "FactorialUsingRecursion",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciUsingRecursion",
+            "request": "launch",
+            "mainClass": "FibonacciUsingRecursion",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "FirstLastOccurence",
+            "request": "launch",
+            "mainClass": "FirstLastOccurence",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "GCD1",
+            "request": "launch",
+            "mainClass": "GCD1",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "GCD2",
+            "request": "launch",
+            "mainClass": "GCD2",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "InfiniteLoop",
+            "request": "launch",
+            "mainClass": "InfiniteLoop",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "KeypadT9",
+            "request": "launch",
+            "mainClass": "KeypadT9",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "KeypadT9withHash",
+            "request": "launch",
+            "mainClass": "KeypadT9withHash",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "MarksMenu",
+            "request": "launch",
+            "mainClass": "MarksMenu",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "MoveAllXtoLast",
+            "request": "launch",
+            "mainClass": "MoveAllXtoLast",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "MultipleNames",
+            "request": "launch",
+            "mainClass": "MultipleNames",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Pallindrome",
+            "request": "launch",
+            "mainClass": "Pallindrome",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "PrimeCheck",
+            "request": "launch",
+            "mainClass": "PrimeCheck",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "PrimeCheck1",
+            "request": "launch",
+            "mainClass": "PrimeCheck1",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "RemoveDuplicates",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceChar",
+            "request": "launch",
+            "mainClass": "ReplaceChar",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber1",
+            "request": "launch",
+            "mainClass": "ReverseNumber1",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "RhombhusPattern",
+            "request": "launch",
+            "mainClass": "RhombhusPattern",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "SearchInMatrix",
+            "request": "launch",
+            "mainClass": "SearchInMatrix",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "SpiralOrderMatrix",
+            "request": "launch",
+            "mainClass": "SpiralOrderMatrix",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "SpyNumber",
+            "request": "launch",
+            "mainClass": "SpyNumber",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "StrictlySortedArray",
+            "request": "launch",
+            "mainClass": "StrictlySortedArray",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "StringBUilderExamples",
+            "request": "launch",
+            "mainClass": "StringBUilderExamples",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "StringLengthCount",
+            "request": "launch",
+            "mainClass": "StringLengthCount",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "StringReverseUsingRecursion",
+            "request": "launch",
+            "mainClass": "StringReverseUsingRecursion",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Subsequences",
+            "request": "launch",
+            "mainClass": "Subsequences",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "SumofOddNum",
+            "request": "launch",
+            "mainClass": "SumofOddNum",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "SwappingTwoArray",
+            "request": "launch",
+            "mainClass": "SwappingTwoArray",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "SwappingWithoutThirdVariable",
+            "request": "launch",
+            "mainClass": "SwappingWithoutThirdVariable",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "TableFormat",
+            "request": "launch",
+            "mainClass": "TableFormat",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "TestYear",
+            "request": "launch",
+            "mainClass": "TestYear",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Transpose",
+            "request": "launch",
+            "mainClass": "Transpose",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "TraversePNZ",
+            "request": "launch",
+            "mainClass": "TraversePNZ",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "UniqueSubsequence",
+            "request": "launch",
+            "mainClass": "UniqueSubsequence",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "UserInputWhileLoopEx",
+            "request": "launch",
+            "mainClass": "UserInputWhileLoopEx",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "Voting",
+            "request": "launch",
+            "mainClass": "Voting",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "mycode",
+            "request": "launch",
+            "mainClass": "mycode",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "myjava",
+            "request": "launch",
+            "mainClass": "myjava",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "towerOfhanoi",
+            "request": "launch",
+            "mainClass": "towerOfhanoi",
+            "projectName": "java-workspace_1a29c92f"
+        },
+        {
+            "type": "java",
+            "name": "xToPowerN",
+            "request": "launch",
+            "mainClass": "xToPowerN",
+            "projectName": "java-workspace_1a29c92f"
+        }
+    ]
+}
